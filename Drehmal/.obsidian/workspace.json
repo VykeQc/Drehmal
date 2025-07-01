@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "bf8629e1140b6d84",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc9e427fc014debd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "369b00a406e177b2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aa307782213ca035",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d42cb42beccf185",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f956acfb84922888",
+    "type": "split",
+    "children": [
+      {
+        "id": "04f01ee04d448a1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11ff27325e6e69d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "375f29ce454f582c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9a3dbd18d57c10a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15b8354d1853ff04",
+    "type": "split",
+    "children": [
+      {
+        "id": "08fb1bf62368ef47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c58b78ec6721a9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lore Books/Stasis Subject Roster.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stasis Subject Roster"
+            }
+          },
+          {
+            "id": "e9cccb6a6f135301",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lore Books/Stasis Subject Roster.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stasis Subject Roster"
+            }
+          },
+          {
+            "id": "0654afc1ef8c3310",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a1edb5fcf0d9b04a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "system3-relay:Relay": false
+    }
+  },
+  "active": "369b00a406e177b2",
+  "lastOpenFiles": [
+    "Personnal Notes/avSYS.md",
+    "Personnal Notes/Ever-Fear.md",
+    "Holotext/Av'Sal/Green Serpent Memo.md",
+    "Personnal Notes/Mythbreaker.md",
+    "Holotext/Av'Sal Repository/Non Repo Entries/- avSYS STATUS -.md",
+    "Holotext/Av'Sal Repository/Repository Entries/Av'Sal.md",
+    "Holotext/Av'Sal/Update from Arina.md",
+    "Holotext/Av'Sal/Imperial Resignation.md",
+    "Holotext/Av'Sal/Historian Mo's Musing.md",
+    "Holotext/Av'Sal/Gohri's Safety Concerns.md",
+    "Holotext/Av'Sal/Energy Turbulence.md",
+    "Personnal Notes/The Aphelion.md",
+    "Holotext/Av'Sal Repository/Non Repo Entries/Muhslihr's Creation.md",
+    "Holotext/Av'Sal Repository/Non Repo Entries/Achet's Troubles.md",
+    "Holotext/Av'Sal Repository/Non Repo Entries/Kovis' Evaluation.md",
+    "Holotext/Av'Sal Repository/Non Repo Entries/Kovis' Hypothesis.md",
+    "Holotext/Stasis Facility/Gohri's Safety Design.md",
+    "Holotext/Stasis Facility/Orix's Rumination.md",
+    "Holotext/Stasis Facility/- STASIS SYSTEM LOG -.md",
+    "Holotext/Stasis Facility/Emergency Comms Transcript.md",
+    "Holotext/Stasis Facility/Emergency Broadcast.md",
+    "Holotext/Av'Sal Repository/Repository Entries/Stasis Facility.md",
+    "Holotext/Av'Sal Repository/Repository Entries",
+    "Holotext/Av'Sal Repository/Non Repo Entries",
+    "Holotext/Av'Sal/- avSYS STATUS -.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Ornstehn's Journal.md",
+    "images",
+    "Holotext/Av'Sal/Kovis' Evaluation.md",
+    "Holotext/Av'Sal/Achet's Troubles.md",
+    "Holotext/Av'Sal Repository",
+    "Holotext/Av'Sal",
+    "images/Pasted image 20250630004308.png",
+    "Personnal Notes",
+    "Holotext/Stasis Facility",
+    "Holotext",
+    "Lore Books/Reports, Diaries, Logs, etc",
+    "Lore Books/Theogony"
+  ]
+}

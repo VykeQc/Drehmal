@@ -1,0 +1,21 @@
+{
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [],
+  "enableUpdateYDocFromDiskBuffer": false,
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableHTTPSync": false,
+  "enableSyncMenu": true,
+  "enableDocumentServer": true,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableDesyncPill": false,
+  "enableAttachmentSync": true,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "debugging": false
+}
