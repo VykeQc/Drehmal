@@ -11,26 +11,34 @@
             "id": "369b00a406e177b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Lore Books/Reports, Diaries, Logs, etc/The Avsohmic Miracle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Avsohmic Miracle"
             }
           }
         ]
       },
       {
-        "id": "aa307782213ca035",
+        "id": "fecfeece88bef102",
         "type": "tabs",
         "children": [
           {
-            "id": "3d42cb42beccf185",
+            "id": "09f2d793dbf30ce7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Lore Books/Reports, Diaries, Logs, etc/Airships of Drehmal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Airships of Drehmal"
             }
           }
         ]
@@ -154,16 +162,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lore Books/Reports, Diaries, Logs, etc/Airships of Drehmal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Airships of Drehmal"
+            }
+          },
+          {
+            "id": "c53429259fa4d0fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,11 +196,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "system3-relay:Relay": false
+      "system3-relay:Relay": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "369b00a406e177b2",
+  "active": "09f2d793dbf30ce7",
   "lastOpenFiles": [
+    "Lore Books/myth-cult books/Creed of the Ordered Flame.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Airships of Drehmal.md",
+    "Lore Books/Reports, Diaries, Logs, etc/The Mystery of Castle Hovadchear.md",
+    "Lore Books/myth-cult books/A Divine Pet Project.md",
+    "Lore Books/myth-cult books/Dear Aok.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Tattered Phamphlet.md",
+    "Lore Books/Reports, Diaries, Logs, etc/The Avsohmic Miracle.md",
+    "Lore Books/myth-cult books/Three Great Sigils.md",
+    "Lore Books/myth-cult books/Ancient Sacrament.md",
+    "Lore Books/myth-cult books",
+    "Lore Books/Reports, Diaries, Logs, etc/Pillager Reports.md",
+    "Lore Books/myth-cult books/The Hunting of Greatbeast Muhs.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Journal of Concilman Kihfs'Mihnar.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Auxiliary Vahn's Concern.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Old Mossfield.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Previous Cultivator's Findings.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Memoir of a Tutor.md",
+    "Lore Books/myth-cult books/Uninvited Guests.md",
     "Personnal Notes/avSYS.md",
     "Personnal Notes/Ever-Fear.md",
     "Holotext/Av'Sal/Green Serpent Memo.md",
@@ -191,33 +229,15 @@
     "Holotext/Av'Sal/Update from Arina.md",
     "Holotext/Av'Sal/Imperial Resignation.md",
     "Holotext/Av'Sal/Historian Mo's Musing.md",
-    "Holotext/Av'Sal/Gohri's Safety Concerns.md",
-    "Holotext/Av'Sal/Energy Turbulence.md",
-    "Personnal Notes/The Aphelion.md",
-    "Holotext/Av'Sal Repository/Non Repo Entries/Muhslihr's Creation.md",
-    "Holotext/Av'Sal Repository/Non Repo Entries/Achet's Troubles.md",
-    "Holotext/Av'Sal Repository/Non Repo Entries/Kovis' Evaluation.md",
-    "Holotext/Av'Sal Repository/Non Repo Entries/Kovis' Hypothesis.md",
-    "Holotext/Stasis Facility/Gohri's Safety Design.md",
-    "Holotext/Stasis Facility/Orix's Rumination.md",
-    "Holotext/Stasis Facility/- STASIS SYSTEM LOG -.md",
-    "Holotext/Stasis Facility/Emergency Comms Transcript.md",
-    "Holotext/Stasis Facility/Emergency Broadcast.md",
-    "Holotext/Av'Sal Repository/Repository Entries/Stasis Facility.md",
     "Holotext/Av'Sal Repository/Repository Entries",
     "Holotext/Av'Sal Repository/Non Repo Entries",
-    "Holotext/Av'Sal/- avSYS STATUS -.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Ornstehn's Journal.md",
     "images",
-    "Holotext/Av'Sal/Kovis' Evaluation.md",
-    "Holotext/Av'Sal/Achet's Troubles.md",
     "Holotext/Av'Sal Repository",
     "Holotext/Av'Sal",
     "images/Pasted image 20250630004308.png",
     "Personnal Notes",
     "Holotext/Stasis Facility",
     "Holotext",
-    "Lore Books/Reports, Diaries, Logs, etc",
-    "Lore Books/Theogony"
+    "Lore Books/Reports, Diaries, Logs, etc"
   ]
 }

@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "path:\"Lore Books/myth-cult books\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 311491
+      }
+    },
+    {
       "query": "path:\"Lore Books\"  ",
       "color": {
         "a": 1,
