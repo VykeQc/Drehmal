@@ -107,3 +107,5 @@ She foolishly took credit, picked her tracking gear out of the garbage, and adve
 She was soon apprehended by the Avsohmic military, tried for deicide, found guilty, and executed.
 
 So it goes.
+
+[[Theogony Volume III]]
