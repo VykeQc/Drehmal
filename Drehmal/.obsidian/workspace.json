@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnal Notes/Nothing.md",
+                "file": "Lore Books/Reports, Diaries, Logs, etc/Scarred Notepad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nothing"
+              "title": "Scarred Notepad"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore Books/Reports, Diaries, Logs, etc/The Pawn.md",
+                "file": "Lore Books/Reports, Diaries, Logs, etc/The Heart of Hell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Pawn"
+              "title": "The Heart of Hell"
             }
           }
         ]
@@ -199,11 +199,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78b972c13e7b3907",
+  "active": "369b00a406e177b2",
   "lastOpenFiles": [
-    "Lore Books/Reports, Diaries, Logs, etc/Creature of Nothing.md",
-    "Personnal Notes/Nothing.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Debate Notes.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Scarred Notepad.md",
+    "Lore Books/Reports, Diaries, Logs, etc/The Mystery of Castle Hovadchear.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Airships of Drehmal.md",
+    "Lore Books/Reports, Diaries, Logs, etc/The Heart of Hell.md",
     "Lore Books/Reports, Diaries, Logs, etc/The Pawn.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Creature of Nothing.md",
+    "Lore Books/Reports, Diaries, Logs, etc/A Hard-Won Victory.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Fear Was Once Noble.md",
+    "Lore Books/myth-cult books/Theogony/Theogony Volume II.md",
+    "Personnal Notes/Nothing.md",
     "Lore Books/Reports, Diaries, Logs, etc/The Great Work.md",
     "Personnal Notes/avSYS.md",
     "Personnal Notes/The Aphelion.md",
@@ -220,14 +228,6 @@
     "Holotext/Sal'Mevir/About Survey Drones.md",
     "Lore Books/Reports, Diaries, Logs, etc/Wellspring Day.md",
     "Holotext/Sal'Mevir",
-    "Lore Books/Reports, Diaries, Logs, etc/Researcher Noam's Rant.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Researcher Arlea's Discovery Log.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Priestess of Virtuo's Notes.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Paranoia.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Woes of a Botanist.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Youngster's Journal.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Fear Was Once Noble.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Sahndi's Diary.md",
     "Lore Books/Reports, Diaries, Logs, etc/Tharhan A Land of Conquest",
     "Lore Books/myth-cult books",
     "Holotext/Av'Sal Repository/Repository Entries",
