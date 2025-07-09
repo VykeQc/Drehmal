@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore Books/Reports, Diaries, Logs, etc/Hastily-Letf Message.md",
+                "file": "Holotext/Av'Sal Repository/Repository Entries/Sal'Mevir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hastily-Letf Message"
+              "title": "Sal'Mevir"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e9a467a2a81da23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78b972c13e7b3907",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -179,35 +195,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "369b00a406e177b2",
+  "active": "78b972c13e7b3907",
   "lastOpenFiles": [
-    "Personnal Notes/sdvsdvcsvsvs.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Hastily-Letf Message.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Tharhan A Land of Conquest.md",
-    "Lore Books/myth-cult books/Theogony/Theogony Volume II.md",
-    "Lore Books/myth-cult books/Theogony/Theogony Volume III.md",
-    "Lore Books/Reports, Diaries, Logs, etc/The Origins of Blue Exodus.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Tharhan A Land of Conquest/Chapter 2.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Tharhan A Land of Conquest/Chapter 3.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Tharhan A Land of Conquest/Chaprer 1.md",
-    "Lore Books/Reports, Diaries, Logs, etc/The Heart of Hell.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Ancient Diary.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Swamp Expeditions.md",
+    "Holotext/Av'Sal Repository/Repository Entries/Sal'Mevir.md",
+    "Holotext/Sal'Mevir/Spectographer Koen's Invention.md",
+    "Holotext/Sal'Mevir/Elegy of the Dune Watcher.md",
+    "Holotext/Sal'Mevir/Thresa's Collaboration.md",
+    "Holotext/Sal'Mevir/Spectographer Koen's Analysis.md",
+    "Holotext/Sal'Mevir/The Primal Walkers.md",
+    "Holotext/Sal'Mevir/Kahmas' Custom Containment Unit.md",
+    "Holotext/Sal'Mevir/About Survey Drones.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Wellspring Day.md",
+    "Holotext/Sal'Mevir",
+    "Lore Books/Reports, Diaries, Logs, etc/Researcher Noam's Rant.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Researcher Arlea's Discovery Log.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Priestess of Virtuo's Notes.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Paranoia.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Woes of a Botanist.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Youngster's Journal.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Fear Was Once Noble.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Sahndi's Diary.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Southern Exploration.md",
+    "Lore Books/Reports, Diaries, Logs, etc/History of the Tidal Dynasty.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Ecological Disaster Report.md",
+    "Lore Books/Reports, Diaries, Logs, etc/A Bridge to Prosperity.md",
+    "Lore Books/Reports, Diaries, Logs, etc/A Hard-Won Victory.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Creature of Nothing.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Curious Cavern.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Off the Beaten Path.md",
+    "Lore Books/Reports, Diaries, Logs, etc/The Pawn.md",
     "Lore Books/Reports, Diaries, Logs, etc/Tharhan A Land of Conquest",
-    "Lore Books/Reports, Diaries, Logs, etc/Chaotic Ramblings.md",
-    "Lore Books/Reports, Diaries, Logs, etc/BIG News!.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Survivor's Account.md",
-    "Lore Books/myth-cult books/Theogony/Theogony Volume I.md",
-    "Lore Books/Stasis Subject Roster.md",
-    "Lore Books/myth-cult books/Uninvited Guests.md",
-    "Lore Books/myth-cult books/A Divine Pet Project.md",
-    "Personnal Notes/Ever-Fear.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Travels of Captain Ihb, Volume I.md",
-    "Lore Books/myth-cult books/The Hunting of Greatbeast Muhs.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Previous Cultivator's Findings.md",
-    "Lore Books/Reports, Diaries, Logs, etc/The Avsohmic Miracle.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Airships of Drehmal.md",
-    "Lore Books/myth-cult books/Creed of the Ordered Flame.md",
     "Lore Books/myth-cult books",
     "Holotext/Av'Sal Repository/Repository Entries",
     "Holotext/Av'Sal Repository/Non Repo Entries",
@@ -216,7 +233,6 @@
     "Holotext/Av'Sal",
     "images/Pasted image 20250630004308.png",
     "Personnal Notes",
-    "Holotext/Stasis Facility",
-    "Holotext"
+    "Holotext/Stasis Facility"
   ]
 }
