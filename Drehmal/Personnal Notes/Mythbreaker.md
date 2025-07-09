@@ -1,4 +1,4 @@
-source: [[Kovis' Hypothesis]], [[Kovis' Evaluation]]
+source: [[Kovis' Hypothesis]], [[Kovis' Evaluation]], [[Kahmas' Custom Containment Unit]], 
 
 We found, deep under the ruined capital, the hilt of a supposedly very powerful weapon. It is said to be the **absolute pinnacle of Avsohmic weapons technology**. It can apparently be **"charged"** if exposed to a significant quantity of **Primal Energy**. 
 

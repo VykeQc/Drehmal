@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holotext/Av'Sal Repository/Repository Entries/Sal'Mevir.md",
+                "file": "Personnal Notes/Nothing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sal'Mevir"
+              "title": "Nothing"
             }
           }
         ]
@@ -31,10 +31,14 @@
             "id": "78b972c13e7b3907",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Lore Books/Reports, Diaries, Logs, etc/The Pawn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Pawn"
             }
           }
         ]
@@ -197,13 +201,22 @@
   },
   "active": "78b972c13e7b3907",
   "lastOpenFiles": [
+    "Lore Books/Reports, Diaries, Logs, etc/Creature of Nothing.md",
+    "Personnal Notes/Nothing.md",
+    "Lore Books/Reports, Diaries, Logs, etc/The Pawn.md",
+    "Lore Books/Reports, Diaries, Logs, etc/The Great Work.md",
+    "Personnal Notes/avSYS.md",
+    "Personnal Notes/The Aphelion.md",
+    "Personnal Notes/Mt. Yavhlix.md",
+    "Holotext/Sal'Mevir/Kahmas' Custom Containment Unit.md",
+    "Holotext/Sal'Mevir/Spectographer Koen's Analysis.md",
+    "Personnal Notes/Mythbreaker.md",
     "Holotext/Av'Sal Repository/Repository Entries/Sal'Mevir.md",
+    "Personnal Notes/Ever-Fear.md",
     "Holotext/Sal'Mevir/Spectographer Koen's Invention.md",
     "Holotext/Sal'Mevir/Elegy of the Dune Watcher.md",
     "Holotext/Sal'Mevir/Thresa's Collaboration.md",
-    "Holotext/Sal'Mevir/Spectographer Koen's Analysis.md",
     "Holotext/Sal'Mevir/The Primal Walkers.md",
-    "Holotext/Sal'Mevir/Kahmas' Custom Containment Unit.md",
     "Holotext/Sal'Mevir/About Survey Drones.md",
     "Lore Books/Reports, Diaries, Logs, etc/Wellspring Day.md",
     "Holotext/Sal'Mevir",
@@ -215,15 +228,6 @@
     "Lore Books/Reports, Diaries, Logs, etc/Youngster's Journal.md",
     "Lore Books/Reports, Diaries, Logs, etc/Fear Was Once Noble.md",
     "Lore Books/Reports, Diaries, Logs, etc/Sahndi's Diary.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Southern Exploration.md",
-    "Lore Books/Reports, Diaries, Logs, etc/History of the Tidal Dynasty.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Ecological Disaster Report.md",
-    "Lore Books/Reports, Diaries, Logs, etc/A Bridge to Prosperity.md",
-    "Lore Books/Reports, Diaries, Logs, etc/A Hard-Won Victory.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Creature of Nothing.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Curious Cavern.md",
-    "Lore Books/Reports, Diaries, Logs, etc/Off the Beaten Path.md",
-    "Lore Books/Reports, Diaries, Logs, etc/The Pawn.md",
     "Lore Books/Reports, Diaries, Logs, etc/Tharhan A Land of Conquest",
     "Lore Books/myth-cult books",
     "Holotext/Av'Sal Repository/Repository Entries",

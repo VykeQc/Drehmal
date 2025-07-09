@@ -1,4 +1,4 @@
-source : [[- avSYS STATUS -]], [[Muhslihr's Creation]]
+source : [[- avSYS STATUS -]], [[Muhslihr's Creation]], [[Update from Arina]]
 
 Now this is pretty impressing. avSYS seems like a really advanced computational system created by the Avsohmic Empire. Gohri, being the programmer she is, probably worked on it.
 
