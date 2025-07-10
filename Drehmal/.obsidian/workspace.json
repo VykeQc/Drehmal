@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "cc9e427fc014debd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "369b00a406e177b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore Books/Reports, Diaries, Logs, etc/Scarred Notepad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scarred Notepad"
-            }
-          }
-        ]
-      },
-      {
         "id": "8e9a467a2a81da23",
         "type": "tabs",
         "children": [
@@ -199,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11ff27325e6e69d7",
+  "active": "78b972c13e7b3907",
   "lastOpenFiles": [
     "Lore Books/Reports, Diaries, Logs, etc/Travels of Captain Ihb, Volume I.md",
     "Book list.md",
+    "ALL.md",
     "Lore Books/Reports, Diaries, Logs, etc/The Heart of Hell.md",
     "Lore Books/Reports, Diaries, Logs, etc/Scarred Notepad.md",
     "Lore Books/Reports, Diaries, Logs, etc/Debate Notes.md",
@@ -226,7 +207,6 @@
     "Holotext/Sal'Mevir/Spectographer Koen's Invention.md",
     "Holotext/Sal'Mevir/Elegy of the Dune Watcher.md",
     "Holotext/Sal'Mevir/Thresa's Collaboration.md",
-    "Holotext/Sal'Mevir/The Primal Walkers.md",
     "Holotext/Sal'Mevir",
     "Lore Books/Reports, Diaries, Logs, etc/Tharhan A Land of Conquest",
     "Lore Books/myth-cult books",
