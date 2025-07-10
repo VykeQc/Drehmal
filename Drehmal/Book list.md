@@ -1,4 +1,3 @@
-- [ ] (REMOVED) Calendar of Drehmal | x:  y:  z:
 - [ ] About Balthysar's Notes | x:5589  y:215  z:2990
 - [ ] About the Mountain of Holes | x:-399  y:107  z:1461
 - [ ] Activity Log - Project Panopticon | x:26897  y:77  z:-39
