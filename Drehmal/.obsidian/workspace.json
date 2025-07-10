@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore Books/Reports, Diaries, Logs, etc/Memoir of Devro Ihb.md",
+                "file": "Lore Books/myth-cult books/Three Great Sigils.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memoir of Devro Ihb"
+              "title": "Three Great Sigils"
             }
           }
         ]
@@ -181,12 +181,20 @@
   },
   "active": "78b972c13e7b3907",
   "lastOpenFiles": [
-    "Lore Books/Reports, Diaries, Logs, etc/Diary of Devro Ihb.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Homli's Pass Expeditions.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Dreams of Fear.md",
+    "Book list.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Untitled",
+    "images/Pasted image 20250630004308.png",
+    "images/Pasted image 20250710190412.png",
+    "Personnal Notes/The Aphelion.md",
+    "Pasted image 20250710190355.png",
+    "Pasted image 20250710190344.png",
     "Lore Books/Reports, Diaries, Logs, etc/Memoir of Devro Ihb.md",
+    "Lore Books/Reports, Diaries, Logs, etc/Diary of Devro Ihb.md",
     "Lore Books/Reports, Diaries, Logs, etc/Transcription of Artifact CXE-445.md",
     "Lore Books/Reports, Diaries, Logs, etc/Storm's Gathering.md",
     "Lore Books/Reports, Diaries, Logs, etc/Diary of a Baffled Sailor.md",
-    "Book list.md",
     "Lore Books/Reports, Diaries, Logs, etc/Travels of Captain Ihb, Volume I.md",
     "ALL.md",
     "Lore Books/Reports, Diaries, Logs, etc/The Heart of Hell.md",
@@ -202,11 +210,8 @@
     "Personnal Notes/Nothing.md",
     "Lore Books/Reports, Diaries, Logs, etc/The Great Work.md",
     "Personnal Notes/avSYS.md",
-    "Personnal Notes/The Aphelion.md",
     "Personnal Notes/Mt. Yavhlix.md",
     "Holotext/Sal'Mevir/Kahmas' Custom Containment Unit.md",
-    "Holotext/Sal'Mevir/Spectographer Koen's Analysis.md",
-    "Personnal Notes/Mythbreaker.md",
     "Holotext/Sal'Mevir",
     "Lore Books/Reports, Diaries, Logs, etc/Tharhan A Land of Conquest",
     "Lore Books/myth-cult books",
@@ -215,8 +220,6 @@
     "images",
     "Holotext/Av'Sal Repository",
     "Holotext/Av'Sal",
-    "images/Pasted image 20250630004308.png",
-    "Personnal Notes",
-    "Holotext/Stasis Facility"
+    "Personnal Notes"
   ]
 }

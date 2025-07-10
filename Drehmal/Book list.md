@@ -100,7 +100,7 @@
 - [ ] Diary of the Tree-Maris | x:-1332  y:127  z:5563
 - [ ] Disciple's Log | x:-2249  y:7  z:5583
 - [ ] Dread of the Ageless | x:-946  y:208  z:-965
-- [ ] Dreams of Fear | x:4621  y:75  z:-2812
+- [x] ~~Dreams of Fear | x:4621  y:75  z:-2812~~
 - [ ] Duchess's Diary | x:1503  y:175  z:-1934
 - [ ] Duke Duruis's Reflections | x:1507  y:169  z:-1947
 - [ ] Dusty Notepad | x:-867  y:193  z:537
@@ -144,7 +144,7 @@
 - [ ] History of Teiruun | x:5568  y:198  z:2961
 - [x] ~~History of the Tidal Dynasty | x:  y:  z:~~
 - [ ] Hole-Filled Notebook | x:26907  y:79  z:-167
-- [ ] Homli's Pass Expeditions | x:4624  y:69  z:-2815
+- [x] ~~Homli's Pass Expeditions | x:4624  y:69  z:-2815~~
 - [ ] Hymn to Fear | x:949  y:144  z:482
 - [ ] Idiot's Report | x:-2105  y:122  z:5975
 - [x] ~~Ihb's Letter Home | x:  y:  z:~~
