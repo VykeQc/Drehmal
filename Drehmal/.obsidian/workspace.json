@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALL.md",
+                "file": "Book list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ALL"
+              "title": "Book list"
             }
           }
         ]
@@ -199,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78b972c13e7b3907",
+  "active": "11ff27325e6e69d7",
   "lastOpenFiles": [
     "Lore Books/Reports, Diaries, Logs, etc/Travels of Captain Ihb, Volume I.md",
-    "ALL.md",
+    "Book list.md",
     "Lore Books/Reports, Diaries, Logs, etc/The Heart of Hell.md",
     "Lore Books/Reports, Diaries, Logs, etc/Scarred Notepad.md",
     "Lore Books/Reports, Diaries, Logs, etc/Debate Notes.md",
