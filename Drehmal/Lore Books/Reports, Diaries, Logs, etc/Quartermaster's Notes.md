@@ -1,0 +1,1 @@
+Got a weird shipment in today, like nothing else I've ever seen. Bunch of little purple orbs, hot to the touch. I think one would look great on my wall, but apparently, they're a pretty big deal. But there's so many... I doubt anyone would notice if I just took one, and then it'll be safe up in my office.
