@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore Books/Stasis Subject Roster.md",
+                "file": "Holotext/Av'Sal Repository/Repository Entries/Exodus Citadel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Stasis Subject Roster"
+              "title": "Outgoing links from Exodus Citadel"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore Books/myth-cult books/Uninvited Guests.md",
+                "file": "Holotext/Av'Sal Repository/Repository Entries/Exodus Citadel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Uninvited Guests"
+              "title": "Outline of Exodus Citadel"
             }
           },
           {
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78b972c13e7b3907",
+  "active": "c53429259fa4d0fb",
   "lastOpenFiles": [
-    "Holotext/Exodus CItadel/Vortu's Complaint.md",
     "Holotext/Av'Sal Repository/Repository Entries/Exodus Citadel.md",
+    "Holotext/Exodus CItadel/Vortu's Complaint.md",
     "Holotext/Exodus CItadel/Tank Technician's Troubles.md",
     "Holotext/Exodus CItadel/- FACILITY STATUS -.md",
     "Holotext/Exodus CItadel/Rune Circuit Status.md",
